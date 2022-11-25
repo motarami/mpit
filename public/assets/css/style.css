@@ -1,0 +1,74 @@
+.badGrade{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 10px 4px;
+    gap: 10px;
+    width: 80px;
+    height: 26px;
+    background: #FFD8D8;
+    color: #F95B5B;
+    border-radius: 22px;
+    font-size: 14px;
+}
+.normalGrade{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 10px 4px;
+    gap: 10px;
+    width: 80px;
+    height: 26px;
+    background: #FFE6D8;
+    color: #EFB545;
+    border-radius: 22px;
+    font-size: 14px;
+}
+.goodGrade{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 10px 4px;
+    gap: 10px;
+    width: 80px;
+    height: 26px;
+    background: #AEFF74;
+    color: #20A22D;
+    border-radius: 22px;
+    font-size: 14px;
+}
+.beatifulGrade{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 10px 4px;
+    gap: 10px;
+    width: 80px;
+    height: 26px;
+    background: #D8E0FF;
+    color: #5B6BF9;
+    font-size: 14px;
+    border-radius: 22px;
+}
+
+body{
+   
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+}
+.topBorder{
+    width: 225px;
+    border-color: #476584;
+}
+.darkBg{
+    background-color: #0B1F33;
+}
+.mpitPurple{
+    background-color: #D7ADFB;
+}
