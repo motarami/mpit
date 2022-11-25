@@ -47,9 +47,8 @@
 - [Iconex - Freebie icons (icons)]([https://heroicons.dev/](https://www.figma.com/community/file/1097525503669326714))
 
 # НАША КОМАНДА 👩🏻‍🦰👧🏻🧑🏻:
- #Zero
- МЕНЕДЖЕР - Оконешникова Анастасия telegram: "https://t.me/anasema_0"
- ДИЗАЙНЕР - Ефимова Валерия telegram: "https://t.me/weeive"
- Разработчик - Иванов Максим telegram: "https://t.me/motarami"
+-МЕНЕДЖЕР - Оконешникова Анастасия telegram: "https://t.me/anasema_0"
+-ДИЗАЙНЕР - Ефимова Валерия telegram: "https://t.me/weeive"
+-РАЗРАБОТЧИК - Иванов Максим telegram: "https://t.me/motarami"
    
 
