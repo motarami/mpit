@@ -1,14 +1,10 @@
-# Windmill Dashboard
+[![Header](https://github.com/motarami/mpit/blob/end/public/assets/img/header.png)]()
+# MPIT PLATFORM
 
-A multi theme, completely accessible, with components and pages examples, ready for production dashboard.
+Проект создававшийся специально для дальневосточного марафона разработчиков "Hack-the-ice 4.0"! 
 
 🧪 [See it live](https://windmillui.com/dashboard-html)
 
-- 🦮 Thoroughly accessible
-- 🌗 Light and dark themes
-- 💅 Styled with Tailwind CSS
-- 🧩 Various components
-- ❄ [React version](https://windmillui.com/dashboard-react)
 
 ## 🚀 Usage
 
