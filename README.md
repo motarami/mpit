@@ -1,7 +1,8 @@
 [![Header](https://github.com/motarami/mpit/blob/end/public/assets/img/header.png)]()
 
 # MPIT PLATFORM by team: "Zero"
-Проект был разработан в рамках хакатона "Hack-the-ice 4.0"! 
+Проект был разработан в рамках хакатона "Hack-the-ice 4.0"!
+["Hack the ice 4.0](https://ityakutia.com/hack-the-ice)
 
 
 🧪 [See it live](https://windmillui.com/dashboard-html)
