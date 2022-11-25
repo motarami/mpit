@@ -4,7 +4,7 @@
 Проект был разработан в рамках хакатона ["Hack-the-ice 4.0"](https://ityakutia.com/hack-the-ice)
 
 
-🧪 [See it live](https://windmillui.com/dashboard-html)
+🧪 [See it live](https://github.com/motarami/mpit/blob/end/public/index.html)
 
 
 ## Описание проекта 📖
