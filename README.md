@@ -44,15 +44,9 @@
 - [PostCSS](https://postcss.org/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Chart.js (charts)](https://www.chartjs.org/)
-- [Iconex - Freebie icons (icons)]([https://heroicons.dev/](https://www.figma.com/community/file/1097525503669326714))
+- [Iconex - Freebie icons (icons)](https://www.figma.com/community/file/1097525503669326714)
 
 # НАША КОМАНДА 👩🏻‍🦰👧🏻🧑🏻
-- МЕНЕДЖЕР - АНАСТАСИЯ 
-- ДИЗАЙНЕР - ВАЛЕРИЯ
-- РАЗРАБОТЧИК - МАКСИМ
-
-   
-
--МЕНЕДЖЕР - Оконешникова Анастасия telegram: "https://t.me/anasema_0"
--ДИЗАЙНЕР - Ефимова Валерия telegram: "https://t.me/weeive"
--РАЗРАБОТЧИК - Иванов Максим telegram: "https://t.me/motarami"
+- МЕНЕДЖЕР - ОКОНЕШНИКОВА АНАСТАСИЯ telegram: "https://t.me/anasema_0"
+- ДИЗАЙНЕР - ЕФИМОВА ВАЛЕРИЯ telegram: "https://t.me/weeive"
+- РАЗРАБОТЧИК - ИВАНОВ МАКСИМ telegram: "https://t.me/motarami"
