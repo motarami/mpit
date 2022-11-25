@@ -49,7 +49,7 @@
 # НАША КОМАНДА 👩🏻‍🦰👧🏻🧑🏻:
  #Zero
  #МЕНЕДЖЕР - Оконешникова Анастасия telegram: "https://t.me/anasema_0"
-  #ДИЗАЙНЕР - Ефимова Валерия telegram: "https://t.me/weeive"
-   #Разработчик - Иванов Максим telegram: "https://t.me/motarami"
+ #ДИЗАЙНЕР - Ефимова Валерия telegram: "https://t.me/weeive"
+ #Разработчик - Иванов Максим telegram: "https://t.me/motarami"
    
 
