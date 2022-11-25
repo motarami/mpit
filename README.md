@@ -1,6 +1,6 @@
 [![Header](https://github.com/motarami/mpit/blob/end/public/assets/img/header.png)]()
 
-# MPIT PLATFORM
+# MPIT PLATFORM by team: "Zero"
 Проект был разработан в рамках хакатона "Hack-the-ice 4.0"! 
 
 
@@ -47,6 +47,9 @@
 - [Iconex - Freebie icons (icons)](https://www.figma.com/community/file/1097525503669326714)
 
 # НАША КОМАНДА 👩🏻‍🦰👧🏻🧑🏻
-- МЕНЕДЖЕР - ОКОНЕШНИКОВА АНАСТАСИЯ telegram: "https://t.me/anasema_0"
-- ДИЗАЙНЕР - ЕФИМОВА ВАЛЕРИЯ telegram: "https://t.me/weeive"
-- РАЗРАБОТЧИК - ИВАНОВ МАКСИМ telegram: "https://t.me/motarami"
+- МЕНЕДЖЕР - ОКОНЕШНИКОВА АНАСТАСИЯ 
+# telegram: "https://t.me/anasema_0"
+- ДИЗАЙНЕР - ЕФИМОВА ВАЛЕРИЯ 
+#telegram: "https://t.me/weeive"
+- РАЗРАБОТЧИК - ИВАНОВ МАКСИМ 
+#telegram: "https://t.me/motarami"
