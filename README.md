@@ -48,8 +48,13 @@
 
 # НАША КОМАНДА 👩🏻‍🦰👧🏻🧑🏻
 - МЕНЕДЖЕР - ОКОНЕШНИКОВА АНАСТАСИЯ 
-# telegram: "https://t.me/anasema_0"
+- [telegram](https://t.me/anasema_0)
+- discord: "anasema#5485"
+- -------------------------------------
 - ДИЗАЙНЕР - ЕФИМОВА ВАЛЕРИЯ 
-#telegram: "https://t.me/weeive"
+- [telegram](https://t.me/weeive)
+- discord: "IVE#3782"
+- ------------------------------------
 - РАЗРАБОТЧИК - ИВАНОВ МАКСИМ 
-#telegram: "https://t.me/motarami"
+- [telegram](https://t.me/motarami")
+- discord: "motarami#5288"
