@@ -1,7 +1,7 @@
 [![Header](https://github.com/motarami/mpit/blob/end/public/assets/img/header.png)]()
 
 # MPIT PLATFORM by team: "Zero"
-Проект был разработан в рамках хакатона ["Hack-the-ice 4.0"](https://ityakutia.com/hack-the-ice)
+
 
 
 # ОПИСАНИЕ ПРОЕКТА📖
@@ -62,3 +62,4 @@
 - РАЗРАБОТЧИК - ИВАНОВ МАКСИМ 
 - [telegram-motarami](https://t.me/motarami")
 - discord: "motarami#5288"
+# Проект был разработан в рамках хакатона ["Hack-the-ice 4.0"](https://ityakutia.com/hack-the-ice)
